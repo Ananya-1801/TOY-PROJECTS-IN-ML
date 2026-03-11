@@ -117,23 +117,6 @@ While this is a **simple and beginner-focused model**, it demonstrates how basic
 - Improve evaluation using precision, recall, and confusion matrix
 - Visualize the decision boundary more clearly
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-````
-
-2. Install required libraries
-
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
-   ```
-3. Open the notebook and run all cells sequentially
-
----
 ````
 ## 🤝 Contributions
 
